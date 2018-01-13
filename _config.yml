@@ -1,6 +1,7 @@
 # General Jekyll Config
-name: Keeyre's Blogs
-baseurl: /blogs
+name: 听蝉惊秋
+url: "https://keeyre.github.io"
+baseurl: ""
 
 
 # Building settings
