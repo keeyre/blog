@@ -1,2 +1,8 @@
+# General Jekyll Config
+name: Keeyre's Blogs
 baseurl: /blogs
+
+
+# Building settings
+permalink: pretty
 theme: Tactile
