@@ -6,4 +6,4 @@ baseurl: "/blogs"
 
 # Building settings
 permalink: pretty
-theme: Tactile
+theme: jekyll-theme-tactile
