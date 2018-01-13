@@ -4,7 +4,7 @@ title: 在GitHub上创建博客
 ---
 
 ## 文章链接
-+ [GitHub Pages 静态博客](href="http://alfred-sun.github.io/blog/2014/12/05/github-pages/) <br/>
++ [GitHub Pages 静态博客](http://alfred-sun.github.io/blog/2014/12/05/github-pages/) <br/>
 + [如何搭建一个独立博客——简明 GitHub Pages与 jekyll 教程](http://www.cnfeat.com/blog/2014/05/11/how-to-build-a-blog/) <br/>
 + [一步步在GitHub上创建博客主页系列文章](http://www.pchou.info/ssgithubPage/2013-01-03-build-github-blog-page-01.html) <br/>
 + [创建GitHub技术博客全攻略](http://blog.csdn.net/renfufei/article/details/37725057/) 
